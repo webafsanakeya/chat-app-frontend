@@ -35,10 +35,9 @@ Frontend live: [Chat App](https://chat-app-frontend-delta-seven.vercel.app)
 
 ---
 
-
-![Login Page](./QuickChat1.png)  
-![Chat Window](./QuickChat2.png)
-![sign up page](./QuickChat3.png)
+![Signup Page](./screenshots/signup.png)
+![Login Page](./screenshots/login.png)
+![Chat Window](./screenshots/chat-window.png)
 
 
 ---
