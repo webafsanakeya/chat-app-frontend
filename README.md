@@ -30,7 +30,7 @@ A **Real-Time Chat Application Frontend** built with **React & Vite**, connected
 
 ## 🔗 Live Demo
 
-Frontend live: [Chat App](https://chat-app-frontend.vercel.app)
+Frontend live: [Chat App](https://chat-app-frontend-delta-seven.vercel.app)
 
 ---
 
