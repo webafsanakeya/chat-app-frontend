@@ -32,6 +32,15 @@ A **Real-Time Chat Application Frontend** built with **React & Vite**, connected
 
 Frontend live: [Chat App](https://chat-app-frontend-delta-seven.vercel.app)
 
+
+---
+
+
+![Login Page](./QuickChat1.png)  
+![Chat Window](./QuickChat2.png)
+![sign up page](./QuickChat3.png)
+
+
 ---
 
 ## 🔧 Setup Instructions
